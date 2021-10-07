@@ -1,4 +1,4 @@
-from typing import List, Dict, MutableSequence
+from typing import List, Dict
 from time import sleep
 
 from models.produto import Produto
